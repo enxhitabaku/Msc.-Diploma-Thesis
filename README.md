@@ -1,5 +1,5 @@
 # Msc.-Diploma-Thesis
-Conducted a comprehensive penetration test on the C.I.T web infrastructure (www.cit.edu.al). 
+Conducted a comprehensive penetration test on a well known higher education institute infrastructure. 
 Employing an array of tools and skills, such as nmap, hashcat,  Google Dorking, sqlmap, Burp Suite, and OWASP ZAP.
 
 •	Bypassed Web Application Firewalls (WAF) using advanced evasion techniques.
